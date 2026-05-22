@@ -189,7 +189,7 @@ If all configured models are rate limited, scan creation returns a temporary 503
 - Use a managed MongoDB instance for deployed environments.
 - Do not commit `.env` files or API keys.
 
-## License
+## License 
 
 No license has been specified yet.
  
